@@ -1,10 +1,12 @@
-<div align="center">
+
 # 【CVPR'2024🔥】Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining
 
 > Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining
 >
 > [Xiang Chen](https://cschenxiang.github.io/), [Jinshan Pan](https://jspan.github.io/), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=en&oi=ao)
+>
 > Nanjing University of Science and Technology
+>
 > Primary contact: Xiang Chen (chenxiang@njust.edu.cn)
 
 
