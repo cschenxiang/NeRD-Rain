@@ -14,7 +14,7 @@
 ## 📣 News
 - [24-02-27] Our paper has been accepted to CVPR 2024.
 
-## Overview
+## 📌 Overview
 ![avatar](Overview.jpg)
 
 ## 👍 Acknowledgement
