@@ -23,6 +23,12 @@ Type the command:
 pip install -r requirements.txt
 ```
 
+Install warmup scheduler
+
+```
+cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
+```
+
 ## 🧩 Dataset Preparation
 | Datasets | Download Link | 
 |:-----: |:-----: |
