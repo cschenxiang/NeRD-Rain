@@ -11,10 +11,8 @@
 >
 > Primary contact: Xiang Chen (chenxiang@njust.edu.cn)
 
-
-
-
-
+## 📣 News
+- [24-02-27] Our paper has been accepted to CVPR 2024❗️
 
 ## 👍 Acknowledgement
 Thanks for their awesome works ([DeepRFT](https://github.com/INVOKERer/DeepRFT) and [NeRCo](https://github.com/Ysz2022/NeRCo)).
