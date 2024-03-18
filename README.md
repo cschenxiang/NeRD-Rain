@@ -10,7 +10,7 @@ The paper and code are coming soon...
 
 
 ## 👍 Acknowledgement
-[DeepRFT](https://github.com/INVOKERer/DeepRFT) [NeRCo](https://github.com/Ysz2022/NeRCo) Thanks for their awesome work.
+Thanks for their awesome works ([DeepRFT](https://github.com/INVOKERer/DeepRFT) [NeRCo](https://github.com/Ysz2022/NeRCo)).
 
 ## 📘 Citation
 Please consider citing our work as follows if it is helpful.
