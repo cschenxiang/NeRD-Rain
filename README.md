@@ -15,7 +15,7 @@
 - [24-02-27] Our paper has been accepted to CVPR 2024.
 
 ## 📌 Overview
-![avatar](Overview.jpg)
+![avatar](figs/Overview.jpg)
 
 ## 🔑 Setup
 Type the command:
@@ -32,6 +32,16 @@ pip install -r requirements.txt
 | DDN-Data | [Baidu Netdisk](https://pan.baidu.com/s/1g_m7RfSUJUtknlWugO1nrw?pwd=ldzo) (ldzo) |
 | SPA-Data | [Baidu Netdisk](https://pan.baidu.com/s/1YfxC5OvgYcQCffEttFz8Kg?pwd=yjow) (yjow) |
 
+## 🚨 Performance Evaluation
+See folder "evaluations" 
+
+1) *for Rain200L/H and SPA-Data datasets*: 
+PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/swz30/Restormer/blob/main/Deraining/evaluate_PSNR_SSIM.m).
+
+2) *for DID-Data and DDN-Data datasets*: 
+PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation).
+
+<img src = "figs/table.png">
 
 ## 🚀 Visual Deraining Results
 | Datasets | DualGCN | SPDNet | Uformer | Restormer |
