@@ -17,6 +17,12 @@
 ## 📌 Overview
 ![avatar](Overview.jpg)
 
+## 🔑 Setup
+Type the command:
+```
+pip install -r requirements.txt
+```
+
 ## 🧩 Dataset Preparation
 | Datasets | Download Link | 
 |:-----: |:-----: |
