@@ -1,5 +1,5 @@
-
 # 【CVPR'2024🔥】Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining
+<h5 align="center">
 
 > Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining
 >
