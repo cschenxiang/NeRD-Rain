@@ -12,6 +12,7 @@
 > Primary contact: Xiang Chen (chenxiang@njust.edu.cn)
 
 ## 📣 News
+- [24-04-01] We will release the arXiv version (including all codes, models and results).
 - [24-02-27] Our paper has been accepted to CVPR 2024.
 
 ## 📌 Overview
