@@ -46,6 +46,7 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 bash train.sh
 ```
 Run the script then you can find the generated experimental logs in the folder `checkpoints`.
+
 3. Follow the instructions below to begin testing our model.
 ```
 python test.py
