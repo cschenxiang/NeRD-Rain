@@ -38,6 +38,21 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 | DDN-Data | [Baidu Netdisk](https://pan.baidu.com/s/1g_m7RfSUJUtknlWugO1nrw?pwd=ldzo) (ldzo) |
 | SPA-Data | [Baidu Netdisk](https://pan.baidu.com/s/1YfxC5OvgYcQCffEttFz8Kg?pwd=yjow) (yjow) |
 
+
+## 🤖 Training and Testing
+1. Please download the corresponding datasets and put them in the folder `Datasets/`.
+2. Follow the instructions below to begin training our model.
+```
+bash train.sh
+```
+Run the script then you can find the generated experimental logs in the folder `checkpoints`.
+3. Follow the instructions below to begin testing our model.
+```
+python test.py
+```
+Run the script then you can find the output visual results in the folder `results/`.
+
+
 ## 🚨 Performance Evaluation
 See folder "evaluations" 
 
