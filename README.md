@@ -39,7 +39,7 @@ cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
 | SPA-Data | [Baidu Netdisk](https://pan.baidu.com/s/1YfxC5OvgYcQCffEttFz8Kg?pwd=yjow) (yjow) |
 
 
-## 🤖 Training and Testing
+## 🛠️ Training and Testing
 1. Please download the corresponding datasets and put them in the folder `Datasets/`.
 2. Follow the instructions below to begin training our model.
 ```
@@ -54,6 +54,16 @@ python test.py
 Run the script then you can find the output visual results in the folder `results/`.
 
 
+## 🤖 Pre-trained Models
+| Models | NeRD-Rain-S | NeRD-Rain |
+|:-----: |:-----: |:-----: |
+| Rain200L | [Google Drive]() / [Baidu Netdisk]() (N/A) | [Google Drive]() / [Baidu Netdisk]() (N/A) |
+| Rain200H | [Google Drive]() / [Baidu Netdisk]() (N/A) | [Google Drive]() / [Baidu Netdisk]() (N/A) |
+| DID-Data | [Google Drive]() / [Baidu Netdisk]() (N/A) | [Google Drive]() / [Baidu Netdisk]() (N/A) |
+| DDN-Data | [Google Drive]() / [Baidu Netdisk]() (N/A) | [Google Drive]() / [Baidu Netdisk]() (N/A) |
+| SPA-Data | [Google Drive]() / [Baidu Netdisk]() (N/A) | [Google Drive]() / [Baidu Netdisk]() (N/A) |
+
+
 ## 🚨 Performance Evaluation
 See folder "evaluations" 
 
@@ -66,7 +76,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
 <img src = "figs/table.png">
 
 ## 🚀 Visual Deraining Results
-| Datasets | DualGCN | SPDNet | Uformer | Restormer |
+| Methods | DualGCN | SPDNet | Uformer | Restormer |
 |:-----: |:-----: |:-----: |:-----: |:-----: |
 | Rain200L | [Baidu Netdisk](https://pan.baidu.com/s/1o9eLMv7Zfk_GC9F4eWC2kw?pwd=v8qy) (v8qy) | [Baidu Netdisk](https://pan.baidu.com/s/1u9F4IxA8GCxKGk6__W81Og?pwd=y39h) (y39h) | [Baidu Netdisk]() (N/A) |[Baidu Netdisk](https://pan.baidu.com/s/1jv6PUMO7h_Tc4ovrCLQsSw?pwd=6a2z) (6a2z) |
 | Rain200H | [Baidu Netdisk](https://pan.baidu.com/s/1QiKh5fTV-QSdnwMsZdDe9Q?pwd=jnc9) (jnc9) | [Baidu Netdisk](https://pan.baidu.com/s/1wSTwW6ewBUgNLj7l7i6HzQ?pwd=mry2) (mry2) | [Baidu Netdisk]() (N/A) |[Baidu Netdisk](https://pan.baidu.com/s/16R0YamX-mfn6j9sYP7QpvA?pwd=9m1r) (9m1r) |
@@ -74,7 +84,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
 | DDN-Data | [Baidu Netdisk](https://pan.baidu.com/s/1ML1A1boxwX38TGccTzr6KA?pwd=1mdx) (1mdx) | [Baidu Netdisk](https://pan.baidu.com/s/130e74ISgZtlaw8w6ZzJgvQ?pwd=19bm) (19bm) | [Baidu Netdisk](https://pan.baidu.com/s/1cWY7piDJRF05qKYPNXt_cA?pwd=39bj) (39bj) |[Baidu Netdisk](https://pan.baidu.com/s/1GGqsfUOdoxod9vAUxB54PA?pwd=crj4) (crj4) |
 | SPA-Data | [Baidu Netdisk](https://pan.baidu.com/s/16RHVyrBoPnOhW1QuglRmlw?pwd=lkeb) (lkeb) | [Baidu Netdisk](https://pan.baidu.com/s/1J0ybwnuT__ZGQZNbMTfw8Q?pwd=dd98) (dd98) | [Baidu Netdisk]() (N/A) |[Baidu Netdisk](https://pan.baidu.com/s/1IG4T1Bz--FrDAuV6o-fykA?pwd=b40z) (b40z) |
 
-| Datasets | IDT | DRSformer | NeRD-Rain-S | NeRD-Rain |
+| Methods | IDT | DRSformer | NeRD-Rain-S | NeRD-Rain |
 |:-----: |:-----: |:-----: |:-----: |:-----: |
 | Rain200L | [Baidu Netdisk](https://pan.baidu.com/s/1jhHCHT64aDknc4g0ELZJGA?pwd=v4yd) (v4yd) | [Baidu Netdisk](https://pan.baidu.com/s/1-ElpyJigVnpt5xDFE6Pqqw?pwd=hyuv) (hyuv) | [Baidu Netdisk]() (N/A) |[Baidu Netdisk]() (N/A) | 
 | Rain200H | [Baidu Netdisk](https://pan.baidu.com/s/10TZzZH0HisPV0Mw-E4SlTQ?pwd=77i4) (77i4) | [Baidu Netdisk](https://pan.baidu.com/s/13aJKxH7V_6CIAynbkHXIyQ?pwd=px2j) (px2j) | [Baidu Netdisk]() (N/A) |[Baidu Netdisk]() (N/A) |
