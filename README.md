@@ -15,7 +15,7 @@
 - [24-04-01] We will release the arXiv version (including all codes, models and results).
 - [24-02-27] Our paper has been accepted to CVPR 2024.
 
-## 📖 Research website: [[link]](http://www.deraining.tech/) (A Survey on Image Deraining)
+## 📖 Research Website: [[link]](http://www.deraining.tech/) (A Survey on Image Deraining)
  
 ## 📌 Overview
 ![avatar](figs/Overview.jpg)
