@@ -100,8 +100,8 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
 
 | Methods | Models | Descriptions | 
 |:-----: |:-----: |:-----: |
-| [model_woBFPU.py](https://github.com/cschenxiang/NeRD-Rain/blob/main/Ablations/model_MPRNet.py) | [Google Drive](https://drive.google.com/file/d/1NzObBRbrrYPZE4V52o-H1G8r0r54Efta/view?usp=sharing) | w/o BFPU, see Table 5. |
-| [model_wConcat.py](https://github.com/cschenxiang/NeRD-Rain/blob/main/Ablations/model_MPRNet.py) | [Google Drive](https://drive.google.com/file/d/1NzObBRbrrYPZE4V52o-H1G8r0r54Efta/view?usp=sharing) | w/ Concat, see Table 5. |
+| [model_woBFPU.py](https://github.com/cschenxiang/NeRD-Rain/blob/main/Ablations/model_woBFPU.py) | [Google Drive](https://drive.google.com/file/d/1aepvCky1sj2W2qjXW90StDJPpWTdNkqt/view?usp=sharing) | w/o BFPU, see Table 5. |
+| [model_wConcat.py](https://github.com/cschenxiang/NeRD-Rain/blob/main/Ablations/model_wConcat.py) | [Google Drive](https://drive.google.com/file/d/1NzObBRbrrYPZE4V52o-H1G8r0r54Efta/view?usp=sharing) | w/ Concat, see Table 5. |
 | [model_MPRNet.py](https://github.com/cschenxiang/NeRD-Rain/blob/main/Ablations/model_MPRNet.py) | [Google Drive](https://drive.google.com/file/d/1NzObBRbrrYPZE4V52o-H1G8r0r54Efta/view?usp=sharing) | Extension to CNN-based UNet, see Table 6. |
 
 
