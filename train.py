@@ -18,6 +18,7 @@ import numpy as np
 import utils
 from data_RGB import get_training_data, get_validation_data
 from model import MultiscaleNet as myNet
+#from model_S import MultiscaleNet as myNet
 import losses
 from warmup_scheduler import GradualWarmupScheduler
 from tqdm import tqdm

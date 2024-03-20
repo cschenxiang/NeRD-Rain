@@ -6,6 +6,7 @@ from torch.utils.data import DataLoader
 import utils
 from data_RGB import get_test_data
 from model import MultiscaleNet as mynet
+#from model_S import MultiscaleNet as myNet
 from skimage import img_as_ubyte
 from get_parameter_number import get_parameter_number
 from tqdm import tqdm
