@@ -72,10 +72,10 @@ Run the script then you can find the output visual results in the folder `result
 See folder "evaluations" 
 
 1) *for Rain200L/H and SPA-Data datasets*: 
-PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/swz30/Restormer/blob/main/Deraining/evaluate_PSNR_SSIM.m).
+PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/cschenxiang/NeRD-Rain/tree/main/evaluations/Evalution_Rain200L_Rain200H_SPA-Data).
 
 2) *for DID-Data and DDN-Data datasets*: 
-PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/hongwang01/RCDNet/tree/master/Performance_evaluation).
+PSNR and SSIM results are computed by using this [Matlab Code](https://github.com/cschenxiang/NeRD-Rain/tree/main/evaluations/Evaluation_DID-Data_DDN-Data).
 
 <img src = "figs/table.png">
 
