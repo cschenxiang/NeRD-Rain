@@ -100,7 +100,7 @@ PSNR and SSIM results are computed by using this [Matlab Code](https://github.co
 
 | Methods | Models | Descriptions | 
 |:-----: |:-----: |:-----: |
-| [model_MPRNet.py](https://drive.google.com/file/d/1GOhd5RYf8AHIt0mhJRGm91vKM8EbBpYQ/view?usp=sharing) | [Google Drive](https://drive.google.com/file/d/1GOhd5RYf8AHIt0mhJRGm91vKM8EbBpYQ/view?usp=sharing) | Extension to CNN-based UNet, Table6. |
+| [model_MPRNet.py](https://github.com/cschenxiang/NeRD-Rain/blob/main/Ablations/model_MPRNet.py) | [Google Drive](https://drive.google.com/file/d/1NzObBRbrrYPZE4V52o-H1G8r0r54Efta/view?usp=sharing) | Extension to CNN-based UNet, see Table6. |
 
 
 ## 👍 Acknowledgement
