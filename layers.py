@@ -1,5 +1,13 @@
 #from doconv_pytorch import *
-
+import math
+import torch
+import numpy as np
+from torch.nn import functional as F
+from torch._jit_internal import Optional
+from torch.nn.parameter import Parameter
+from torch.nn.modules.module import Module
+from torch import nn
+from torch.nn import init
 
 class BasicConv(nn.Module):
     def __init__(self, in_channel, out_channel, kernel_size, stride, bias=False, norm=False, relu=True, transpose=False,
