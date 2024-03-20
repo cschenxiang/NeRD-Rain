@@ -3,7 +3,7 @@ from torch import nn
 from torch.nn import functional as F
 import numbers
 from einops import rearrange
-from mlp_v6 import INR
+from mlp_f import INR
 
 
 def to_3d(x):
