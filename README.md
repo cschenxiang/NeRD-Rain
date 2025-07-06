@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/805862e3-0b84-4a9f-af32-aa9bdf3d61c3)<div align="center">
 
 # 【CVPR'2024🔥】Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining
 </div>
@@ -10,6 +10,9 @@
 > Nanjing University of Science and Technology
 >
 > Primary contact: Xiang Chen (chenxiang@njust.edu.cn)
+
+Welcome to visit our website (专注底层视觉领域的信息服务平台) for low-level vision: https://lowlevelcv.com/
+
 
 ## 📣 News
 - [24-04-03] The paper is available [here](https://arxiv.org/abs/2404.01547).   
