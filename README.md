@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/805862e3-0b84-4a9f-af32-aa9bdf3d61c3)<div align="center">
-
 # 【CVPR'2024🔥】Bidirectional Multi-Scale Implicit Neural Representations for Image Deraining
 </div>
 
